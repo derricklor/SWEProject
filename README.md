@@ -1,6 +1,6 @@
 # SWEProject
 Software Engineering Project
 
-Edutainment Game
-Dungeon Quest
+Edutainment 
+Dungeon Quest Game <br>
 Website link: https://derricklor.github.io/SWEProject/Website
