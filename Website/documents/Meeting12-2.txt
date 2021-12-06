@@ -1,0 +1,19 @@
+12/2/2021 Version Control + Prototype and SRS
+
+Update the entire Unity Editor version to 2021.2.4f1.
+Get everyone on the same page. Making sure everyone has the latest version of Unity editor.
+Manually update package manager. Window/Package Manager/In Project update to latest version for all packages.
+Completed
+Added About page, with working buttons.
+Fixed errors from old previous versions.
+Introduced some new errors, fix that later.
+
+todo:
+Get JSON files to display data to screen
+Get encounters scene to run correctly
+Get Win/Lose scenes ready
+
+Finish SRS parts 3,4,5
+Create Demo video
+Update Website
+Create Presentation slides

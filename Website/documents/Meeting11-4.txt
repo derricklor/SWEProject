@@ -1,0 +1,19 @@
+Discussing Class Diagrams 11/4/2021
+Overview of class diagram.
+Attendance: Wyatt, Greg, Nicholas, Alberto, Derrick
+
+What we have:
+Mainmenu ->Start Game
+GameInstance -> Current Save
+GameOver ->Score, play again, quit
+GameWin ->Score play again, quit
+LevelNode-> Left, Parent, Right
+Level-> Player, Boss, Answer
+Questions -> genre, difficulty, question, answer
+
+What we need:
+MultipleChoice
+
+Other:
+Randomize questions
+Move backwards, change directions

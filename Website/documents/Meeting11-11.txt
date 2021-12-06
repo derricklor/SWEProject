@@ -1,0 +1,13 @@
+11/11/2021 Prototype and SRS
+
+Goal: complete the UI prototype, SRS document needs to be completed
+
+Main menu screen complete
+
+Level select needs to have a button on the map to go into an encounter
+
+Encounter screen needs to be implemented in the prototype
+
+Missing research
+
+Add example walkthrough of the prototype once completed

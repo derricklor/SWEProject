@@ -1,0 +1,15 @@
+11/18/2021 Solo week
+What we need: at least 5 questions per person that are ready to be used for final production
+
+Solo assignments- peer review group, and peer review of other groups SRS
+
+Goal to get 5 questions each by 11/19 check-in: everyone is making progress with their questions
+
+Scanning the SRS so everyone can view the comments
+
+Talking about the implementation of the UI so that it has real functionality
+
+Implementation of increased difficulty through the dungeon: the user will select a specific genre of question (math, history, etc.) and the questions will scale as they progress through the game
+
+ 
+Next weeks goals: Edit SRS add functionality to our game

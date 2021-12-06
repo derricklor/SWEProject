@@ -1,0 +1,8 @@
+Meeting Minutes 10/28 @ 3:30
+Via Microsoft Teams
+Meeting Duration: 20 min.
+
+•	Discussed initial requirements document that we had created to make sure we were all on the same page for how we want the gameplay to work.
+o	Made some edits to requirements to finalize before moving on to work on use case diagram.
+•	Discussed plan to create Use Case diagram.
+o	Reviewed past year’s project’s Use Case Diagrams to get a better idea of how to proceed.
